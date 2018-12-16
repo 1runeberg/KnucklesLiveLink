@@ -1,4 +1,5 @@
 # Allow dlls for BP users, exclude pdbs though
+Binaries/*
 Binaries/*/*.pdb
 
 # Builds
@@ -20,6 +21,7 @@ Saved/*
 
 # Compiled source files for the engine to use
 Intermediate/*
+Source/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
