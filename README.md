@@ -1,4 +1,4 @@
-# SUN ROCK (0.5 beta)
+# SUN ROCK (1.0 RC)
 
 ## UE4 Knuckles Livelink "Plugin Only" repository - for use as a submodule in your projects.
 
